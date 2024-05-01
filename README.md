@@ -74,4 +74,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 Since this is an example project,i'd encourage you to clone and rename this project to use for your own purpeses.
 
 ## Find a bug
-If you found an issue or would like to submit an improvement to this project, please submit an issue using the issues tab above.
+If you found an issue or would like to submit an improvement to this project, please contact me.
